@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wV6iDDYpjq67/Djg3upCU6xSb8JdqZpR8tActF3yIt8CGF/LIj5XKfDYM7wLIA2myylmzgjuM+ght62tLF0J7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalvin\\OneDrive\\Documentos\\DESENVOLVIMENTO\\C_SHARP\\Game_SFML\\Game_SFML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalvin\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\kalvin\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\kalvin\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\kalvin\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\kalvin\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\kalvin\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
